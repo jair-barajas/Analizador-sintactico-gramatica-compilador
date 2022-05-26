@@ -1,2 +1,2 @@
-# Analizador-sintactico-gramatica-compilador
+# Gramatica-compilador
 Implementación de gramática del compilador.
